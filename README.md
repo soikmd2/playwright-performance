@@ -183,8 +183,10 @@ To analyze existing performance data in bulk without generating new tests, it is
 
 Typescript is supported for this plugin.
 
+----
+
 ## Support
 
-For any questions or suggestions contact me at: [tzur.paldi@outlook.com](mailto:tzur.paldi@outlook.com?subjcet=Playwright-cleanup%20Support)
+For any questions or suggestions contact me at: [iam@marlonalmeida.com](mailto:iam@marlonalmeida.com)
 
-📬 Maintained by [Tzur Paldi](https://github.com/tzurp) — explore my GitHub profile for more tools.
+📬 Maintained by [Marlon Almeida](https://github.com/soikmd2)
