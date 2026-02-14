@@ -2,6 +2,35 @@
 
 ![chart](resources/chart.png)
 
+---
+
+## 📋 About This Repository
+
+This repository is a **fork and analysis extension** of the original [playwright-performance](https://github.com/tzurp/playwright-performance) plugin created by [Tzur Paldi](https://github.com/tzurp).
+
+### What's Added in This Fork
+
+In addition to the original plugin code, this repository includes comprehensive architectural analysis and recommendations:
+
+📚 **[Complete Documentation Index](DOCUMENTATION_INDEX.md)** - Start here for navigation
+
+**Analysis Documents:**
+- **[Evaluation Report](EVALUATION_REPORT.md)** - Full architectural analysis with 15 prioritized recommendations
+- **[Feature Examples](EXAMPLES_OUTPUT.md)** - Visual mockups of all recommended features (~2,000 lines)
+- **[Playwright Ecosystem Integration](PLAYWRIGHT_ECOSYSTEM_INTEGRATION.md)** - Deep integration recommendations with Playwright CLI, MCP, and native tools
+
+**Total Analysis:** ~3,750 lines of documentation covering implementation roadmaps, effort estimates, and detailed examples.
+
+### Credits
+
+- **Original Plugin:** [playwright-performance](https://github.com/tzurp/playwright-performance) by [Tzur Paldi](https://github.com/tzurp)
+- **Analysis & Recommendations:** Marlon Almeida ([@soikmd2](https://github.com/soikmd2))
+- **License:** Apache-2.0 (maintained from original)
+
+---
+
+## Original Plugin Documentation
+
 To ensure that your application is responsive and performing optimally, it is important to monitor the apparent response time of key procedures. Apparent response time is defined as the time it takes for a procedure to complete and make the application available to the user.
 With this [Playwright](https://playwright.dev/) plugin, you can easily add performance analysis to any flow in your tests, whether it's a pure UI, API, or a combination of both. This plugin provides a simple and efficient way to measure the response times of various procedures and identify potential bottlenecks in your application. With this information, you can make informed decisions about optimizations and improvements to enhance the overall performance of your application. Read more [here](https://www.linkedin.com/pulse/elevating-your-playwright-tests-plugin-tzur-paldi-phd).
 
